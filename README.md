@@ -1,6 +1,6 @@
 # Chinese Map View for Obsidian
 
-> 🍴 本仓库是 [esm7/obsidian-map-view](https://github.com/esm7/obsidian-map-view) 的 Fork，在原版基础上增加了中国地图支持和完全中文化。
+> 🍴 本仓库是 [esm7/obsidian-map-view](https://github.com/esm7/obsidian-map-view) 的 Fork，在原版基础上增加了中国地图支持和完全中文化。通过trae改动。
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/esm7)
 
